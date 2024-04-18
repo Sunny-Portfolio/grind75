@@ -17,7 +17,7 @@ O(n)
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
 O(1)
 # Code
-```
+```py
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
